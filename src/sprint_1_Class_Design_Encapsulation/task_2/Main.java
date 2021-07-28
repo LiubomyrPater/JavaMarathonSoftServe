@@ -1,5 +1,10 @@
 package sprint_1_Class_Design_Encapsulation.task_2;
-
+/**1. Create an instances of Employee class named 'emp1' and 'emp2'.
+ 2. Set not null values for 'fullName' and 'salary' properties.
+ 3. Create array of Employee type with name 'employees' and add two objects created before.
+ 4. Create variable with name 'employeesInfo' of String type.
+ 5. Using a loop, iterrate across array and write to variable named 'employeesInfo' info about each employee in next fommat:
+ */
 public class Main {
     public static void main(String[] args) {
         Employee emp1 = new Employee();
